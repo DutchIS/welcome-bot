@@ -1,0 +1,16 @@
+{
+  "name": "DutchIS Welcome",
+  "version": "v1.0.0",
+  "description": "DutchIS Welcome",
+  "main": "Index.js",
+  "author": "DutchIS",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
